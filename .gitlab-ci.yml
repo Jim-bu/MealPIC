@@ -1,0 +1,2 @@
+include:
+  - "FE/.gitlab-ci.yml"
