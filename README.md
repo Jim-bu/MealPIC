@@ -6,11 +6,11 @@
 
 ### 1. 음식 랭킹
 
-![밀픽랭킹](![alt text](image-1.png))
+(![alt text](image-1.png))
 
 ### 2. 내 주변 Pick
 
-![내주변](![alt text](image-2.png))
+(![alt text](image-2.png))
 
 ### 3. 트렌드 파악
 
