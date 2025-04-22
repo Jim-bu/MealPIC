@@ -6,11 +6,11 @@
 
 ### 1. 음식 랭킹
 
-(![alt text](image-1.png))
+![alt text](image-1.png)
 
 ### 2. 내 주변 Pick
 
-(![alt text](image-2.png))
+![alt text](image-2.png)
 
 ### 3. 트렌드 파악
 
@@ -18,12 +18,6 @@
 
 <br/>
 <br/>
-
-## Frontend
-
-### 프로젝트 아키텍처
-
-awesome image
 
 ### 기술 스택
 
@@ -33,13 +27,6 @@ awesome image
 
 <br/>
 <br/>
-
-## Backend
-
-<div align="center">
-  <h3> 인프라 아키텍처 </h3>
-  ![mealpic](/uploads/e5d99859451711ae724f6323f0a4c2b6/mealpic.png)
-</div>
 
 <div align="center">
   <h3> 기술 스택 </h3>
@@ -65,17 +52,3 @@ awesome image
 </div>
 <br/>
 <br/>
-
-## 🎉 밀픽 스태프를 소개합니다
-
-|                                                                     BackEnd                                                                      |                                                                     BackEnd                                                                      |                                                                     BackEnd                                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-|                            <img src="https://avatars.githubusercontent.com/u/130902228?v=4" width="100" height="100">                            |                            <img src="https://avatars.githubusercontent.com/u/102043957?v=4" width="100" height="100">                            |                            <img src="https://avatars.githubusercontent.com/u/139448668?v=4" width="100" height="100">                            |
-| <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-BE?author=%EB%B0%95%EC%A2%85%ED%95%98" title="Code">작업 내용 💻</a> | <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-BE?author=%EB%AC%B8%EC%A7%84%EC%88%98" title="Code">작업 내용 💻</a> | <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-BE?author=%EC%9D%B4%EC%A3%BC%ED%98%B8" title="Code">작업 내용 💻</a> |
-|                                                       [박종하](https://github.com/freeftr)                                                       |                                                      [문진수](https://github.com/jinsu868)                                                       |                                                       [이주호](https://github.com/lsc713)                                                        |
-
-|                                                                     FrontEnd                                                                     |                                                                     FrontEnd                                                                     |                                                                     FrontEnd                                                                     |
-| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
-|                            <img src="https://avatars.githubusercontent.com/u/110987711?v=4" width="100" height="100">                            |                            <img src="https://avatars.githubusercontent.com/u/175118763?v=4" width="100" height="100">                            |                            <img src="https://avatars.githubusercontent.com/u/81206228?v=4" width="100" height="100">                             |
-| <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-FE?author=%EC%B5%9C%EC%A4%80%ED%98%81" title="Code">작업 내용 💻</a> | <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-FE?author=%EB%B0%95%EC%A7%84%EC%88%98" title="Code">작업 내용 💻</a> | <a href="https://lab.ssafy.com/s12-webmobile1-sub1/S12P11A803/-/commits/dev-FE?author=%EC%97%AC%ED%98%84%EC%8A%B9" title="Code">작업 내용 💻</a> |
-|                                                     [최준혁](https://github.com/raonrabbit)                                                      |                                                       [박진수](https://github.com/Jim-bu)                                                        |                                                      [여현승](https://github.com/hyvnsevng)                                                      |
